@@ -1,0 +1,4 @@
+interface:
+  display_name: "Baka 工作习惯"
+  short_description: "个人开发与协作习惯：精简沟通、按需规划、每轮提交及验收证据选择"
+  default_prompt: "请使用 $baka-workflow 按我的工作习惯完成当前任务。"
